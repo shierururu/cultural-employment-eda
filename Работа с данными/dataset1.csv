@@ -1,0 +1,124 @@
+Страна,Год,Значение,Предупреждение о подсчете,Детали предупреждения,Замечание
+Ангола,2014,1.05583,standart,standart,standart
+Армения,2014,4.19809,standart,standart,standart
+Армения,2015,3.78953,standart,standart,standart
+Австрия,2014,3.45264,standart,standart,standart
+Австрия,2015,3.57969,standart,standart,standart
+Бельгия,2014,3.39017,standart,standart,standart
+Бельгия,2015,3.53208,standart,standart,standart
+Болгария,2014,4.20608,standart,standart,standart
+Болгария,2015,4.30093,standart,standart,standart
+Босния и Герцеговина,2014,5.08564,standart,standart,standart
+Босния и Герцеговина,2015,4.36394,Over Coverage,Classification,Includes other occupation(s)
+Бермуды,2010,2.78464,standart,standart,standart
+Боливия,2011,4.17875,Over Coverage,FCS domains,Includes Intangible cultural heritage
+Боливия,2015,6.61031,Over Coverage,Classification,Includes other occupation(s)
+Бразилия,2013,4.35414,Over Coverage,FCS domains,Includes Intangible cultural heritage
+Бруней,2014,5.49743,standart,standart,standart
+Канада,2015,3.87206,standart,standart,standart
+Швейцария,2014,5.37647,standart,standart,standart
+Чили,2013,4.3181,Over Coverage,FCS domains,Includes Intangible cultural heritage
+Чили,2016,3.60364,standart,standart,standart
+Кабо-Верде,2015,2.8943,standart,standart,standart
+Коста-Рика,2015,3.60532,standart,standart,standart
+Каймановы острова,2016,2.36322,standart,standart,standart
+Кипр,2014,3.00159,standart,standart,standart
+Кипр,2015,3.05023,standart,standart,standart
+Чехия,2014,3.44478,standart,standart,standart
+Чехия,2015,3.935,standart,standart,standart
+Германия,2014,4.09748,standart,standart,standart
+Германия,2015,4.14136,standart,standart,standart
+Дания,2013,2.26868,standart,standart,standart
+Дания,2014,2.28111,standart,standart,standart
+Доминикана,2013,2.10163,Over Coverage,FCS domains,Includes Intangible cultural heritage
+Эквадор,2013,0.75959,Over Coverage,FCS domains,Includes Intangible cultural heritage
+Эквадор,2015,4.61094,standart,standart,standart
+Испания,2014,3.16638,standart,standart,standart
+Испания,2015,3.23015,standart,standart,standart
+Эстония,2014,4.4481,standart,standart,standart
+Эстония,2015,4.76,standart,standart,standart
+Финляндия,2014,6.06457,Over Coverage,Methodology,Cultural employment is overestimated
+Финляндия,2015,6.27254,Over Coverage,Classification,Includes other occupation(s)
+Франция,2014,3.04547,standart,standart,standart
+Франция,2015,2.95991,standart,standart,standart
+Гана,2014,4.49575,Over Coverage,Classification,Includes other occupation(s)
+Греция,2015,3.43978,standart,standart,standart
+Гондурас,2010,3.49978,Over Coverage,FCS domains,Includes Intangible cultural heritage
+Гондурас,2015,4.02594,standart,standart,standart
+Хорватия,2015,4.15854,standart,standart,standart
+Венгрия,2014,3.39757,standart,standart,standart
+Венгрия,2015,3.45988,standart,standart,standart
+Исландия,2015,4.57267,standart,standart,standart
+Израиль,2014,3.92732,standart,standart,standart
+Италия,2014,4.05173,standart,standart,standart
+Италия,2015,4.00231,standart,standart,standart
+Южная Корея,2014,6.74713,Over Coverage,Classification,Includes other occupation(s)
+Южная Корея,2015,6.90707,Over Coverage,Classification,Includes other occupation(s)
+Шри-Ланка,2015,6.35348,standart,standart,standart
+Литва,2014,3.86112,standart,standart,standart
+Литва,2015,4.26381,standart,standart,standart
+Люксембург,2014,5.3478,standart,standart,standart
+Люксембург,2015,4.28096,standart,standart,standart
+Латвия,2014,5.52792,standart,standart,standart
+Латвия,2015,5.30075,standart,standart,standart
+Макао,2014,1.98402,standart,standart,standart
+Макао,2015,1.86633,Over Coverage,Classification,Includes other occupation(s)
+Молдова,2014,3.82691,standart,standart,standart
+Молдова,2015,4.25432,standart,standart,standart
+Мальдивы,2014,9.03147,Over Coverage,Classification,Includes other occupation(s)
+Мексика,2014,4.44429,standart,standart,standart
+Мексика,2015,4.57628,Over Coverage,Classification,Includes other occupation(s)
+Северная Македония,2014,4.59098,standart,standart,standart
+Северная Македония,2015,4.29425,standart,standart,standart
+Мали,2014,2.13016,standart,standart,standart
+Мали,2015,4.97817,standart,standart,standart
+Мальта,2014,5.89727,standart,standart,standart
+Мальта,2015,4.32152,Over Coverage,Classification,Includes other occupation(s)
+Монголия,2014,3.15135,standart,standart,standart
+Монголия,2015,5.44065,standart,standart,standart
+Мозамбик,2014,1.55261,standart,standart,standart
+Малайзия,2014,2.49037,standart,standart,standart
+Малайзия,2015,2.89173,standart,standart,standart
+Нидерланды,2014,4.04372,standart,standart,standart
+Нидерланды,2015,3.97932,standart,standart,standart
+Пакистан,2014,7.06761,standart,standart,standart
+Пакистан,2015,7.69738,Over Coverage,Classification,Includes other occupation(s)
+Пакистан,2015,7.69738,Over Coverage,FCS domains,Includes Intangible cultural heritage
+Панама,2013,4.87009,Over Coverage,FCS domains,Includes Intangible cultural heritage
+Панама,2013,4.87009,Over Coverage,Methodology,Cultural employment is overestimated
+Панама,2016,4.52287,standart,standart,standart
+Перу,2013,3.95623,Over Coverage,FCS domains,Includes Intangible cultural heritage
+Филиппины,2014,2.16748,standart,standart,standart
+Филиппины,2015,2.09934,standart,standart,standart
+Пуэрто-Рико,2014,2.53139,standart,standart,standart
+Пуэрто-Рико,2015,2.92204,standart,standart,standart
+Португалия,2014,4.14034,standart,standart,standart
+Португалия,2015,4.08965,standart,standart,standart
+Парагвай,2010,4.87844,Over Coverage,FCS domains,Includes Intangible cultural heritage
+Палестина,2014,0.8726,standart,standart,standart
+Палестина,2015,0.77922,Over Coverage,Classification,Includes other occupation(s)
+Румыния,2014,3.72344,standart,standart,standart
+Румыния,2015,3.60384,standart,standart,standart
+Россия,2014,5.44351,standart,standart,standart
+Сальвадор,2013,0.58529,Over Coverage,FCS domains,Includes Intangible cultural heritage
+Сербия,2014,4.27092,standart,standart,standart
+Сербия,2015,4.1521,standart,standart,standart
+Словакия,2014,3.88066,standart,standart,standart
+Словакия,2015,3.63434,standart,standart,standart
+Словения,2014,5.30528,Over Coverage,Classification,Includes other occupation(s)
+Словения,2015,5.45092,Over Coverage,Classification,Includes other occupation(s)
+Словения,2016,5.54722,Over Coverage,Classification,Includes other occupation(s)
+Швеция,2014,3.86805,standart,standart,standart
+Швеция,2015,3.82575,standart,standart,standart
+Синт-Мартен,2013,2.45598,standart,standart,standart
+Сейшелы,2012,0.0,standart,standart,standart
+Того,2015,9.6016,standart,standart,standart
+Таиланд,2014,3.65115,standart,standart,standart
+Таиланд,2015,3.66111,standart,standart,standart
+Турция,2014,4.56953,standart,standart,standart
+Турция,2015,4.49227,standart,standart,standart
+Уганда,2012,1.63965,standart,standart,standart
+Уругвай,2013,1.37341,Over Coverage,FCS domains,Includes Intangible cultural heritage
+Вьетнам,2014,4.8365,standart,standart,standart
+Вьетнам,2015,4.60201,standart,standart,standart
+ЮАР,2014,2.50539,standart,standart,standart
