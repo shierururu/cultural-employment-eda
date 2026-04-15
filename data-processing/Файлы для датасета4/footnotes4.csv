@@ -1,0 +1,18 @@
+indicatorId,geoUnit,year,type,subtype,value
+CE.RA.SEX.2.OV.OCCDOMAIN1.1,BEL,2014,Qualifier,Data quality,"Low reliability, use with caution"
+CE.RA.SEX.2.OV.OCCDOMAIN1.1,BEL,2015,Qualifier,Data quality,"Low reliability, use with caution"
+CE.RA.SEX.2.OV.OCCDOMAIN1.1,BOL,2011,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.SEX.2.OV.OCCDOMAIN1.1,BRA,2013,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.SEX.2.OV.OCCDOMAIN1.1,CHE,2014,Qualifier,Data quality,"Low reliability, use with caution"
+CE.RA.SEX.2.OV.OCCDOMAIN1.1,CHL,2013,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.SEX.2.OV.OCCDOMAIN1.1,CZE,2015,Qualifier,Data quality,"Low reliability, use with caution"
+CE.RA.SEX.2.OV.OCCDOMAIN1.1,DOM,2013,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.SEX.2.OV.OCCDOMAIN1.1,ECU,2013,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.SEX.2.OV.OCCDOMAIN1.1,HND,2010,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.SEX.2.OV.OCCDOMAIN1.1,LUX,2015,Qualifier,Data quality,"Low reliability, use with caution"
+CE.RA.SEX.2.OV.OCCDOMAIN1.1,PAN,2013,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.SEX.2.OV.OCCDOMAIN1.1,PER,2013,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.SEX.2.OV.OCCDOMAIN1.1,SLV,2013,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.SEX.2.OV.OCCDOMAIN1.1,SRB,2014,Qualifier,Data quality,"Low reliability, use with caution"
+CE.RA.SEX.2.OV.OCCDOMAIN1.1,SRB,2015,Qualifier,Data quality,"Low reliability, use with caution"
+CE.RA.SEX.2.OV.OCCDOMAIN1.1,URY,2013,Over Coverage,FCS domains,Includes Intangible cultural heritage

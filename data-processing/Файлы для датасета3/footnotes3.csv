@@ -1,0 +1,129 @@
+indicatorId,geoUnit,year,type,subtype,value
+CE.RA.OCCDOMAIN1.1.OV.CULOCC1.1,AUT,2014,Qualifier,Data quality,"Low reliability, use with caution"
+CE.RA.OCCDOMAIN1.1.OV.CULOCC1.1,BEL,2014,Qualifier,Data quality,"Low reliability, use with caution"
+CE.RA.OCCDOMAIN1.1.OV.CULOCC1.1,BOL,2011,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.1.OV.CULOCC1.1,BRA,2013,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.1.OV.CULOCC1.1,CHL,2013,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.1.OV.CULOCC1.1,DOM,2013,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.1.OV.CULOCC1.1,ECU,2013,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.1.OV.CULOCC1.1,FIN,2015,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.1.OV.CULOCC1.1,GHA,2014,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.1.OV.CULOCC1.1,HND,2010,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.1.OV.CULOCC1.1,KOR,2014,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.1.OV.CULOCC1.1,KOR,2015,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.1.OV.CULOCC1.1,MEX,2015,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.1.OV.CULOCC1.1,PAK,2015,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.1.OV.CULOCC1.1,PAK,2015,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.1.OV.CULOCC1.1,PAN,2013,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.1.OV.CULOCC1.1,PER,2013,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.1.OV.CULOCC1.1,SLV,2013,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.1.OV.CULOCC1.1,SRB,2015,Qualifier,Data quality,"Low reliability, use with caution"
+CE.RA.OCCDOMAIN1.1.OV.CULOCC1.1,SVK,2014,Qualifier,Data quality,Data suppressed due to confidentiality or reliability issues
+CE.RA.OCCDOMAIN1.1.OV.CULOCC1.1,SVN,2014,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.1.OV.CULOCC1.1,SVN,2015,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.1.OV.CULOCC1.1,SVN,2016,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.1.OV.CULOCC1.1,URY,2013,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.2.OV.CULOCC1.1,BRA,2013,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.2.OV.CULOCC1.1,CHL,2013,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.2.OV.CULOCC1.1,CYP,2015,Qualifier,Data quality,"Low reliability, use with caution"
+CE.RA.OCCDOMAIN1.2.OV.CULOCC1.1,DOM,2013,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.2.OV.CULOCC1.1,ECU,2013,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.2.OV.CULOCC1.1,FIN,2015,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.2.OV.CULOCC1.1,GHA,2014,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.2.OV.CULOCC1.1,HND,2010,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.2.OV.CULOCC1.1,KOR,2014,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.2.OV.CULOCC1.1,KOR,2015,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.2.OV.CULOCC1.1,LKA,2015,Qualifier,Data quality,"Low reliability, use with caution"
+CE.RA.OCCDOMAIN1.2.OV.CULOCC1.1,MEX,2015,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.2.OV.CULOCC1.1,PAK,2015,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.2.OV.CULOCC1.1,PAK,2015,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.2.OV.CULOCC1.1,PAN,2013,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.2.OV.CULOCC1.1,PER,2013,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.2.OV.CULOCC1.1,ROU,2014,Qualifier,Data quality,"Low reliability, use with caution"
+CE.RA.OCCDOMAIN1.2.OV.CULOCC1.1,SLV,2013,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.2.OV.CULOCC1.1,SVN,2014,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.2.OV.CULOCC1.1,SVN,2015,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.2.OV.CULOCC1.1,SVN,2016,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.2.OV.CULOCC1.1,URY,2013,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.3.OV.CULOCC1.1,BOL,2011,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.3.OV.CULOCC1.1,BRA,2013,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.3.OV.CULOCC1.1,CHL,2013,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.3.OV.CULOCC1.1,DOM,2013,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.3.OV.CULOCC1.1,ECU,2013,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.3.OV.CULOCC1.1,FIN,2015,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.3.OV.CULOCC1.1,GHA,2014,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.3.OV.CULOCC1.1,HND,2010,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.3.OV.CULOCC1.1,HRV,2015,Qualifier,Data quality,"Low reliability, use with caution"
+CE.RA.OCCDOMAIN1.3.OV.CULOCC1.1,KOR,2014,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.3.OV.CULOCC1.1,KOR,2015,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.3.OV.CULOCC1.1,MEX,2015,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.3.OV.CULOCC1.1,MLT,2015,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.3.OV.CULOCC1.1,PAK,2015,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.3.OV.CULOCC1.1,PAK,2015,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.3.OV.CULOCC1.1,PAN,2013,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.3.OV.CULOCC1.1,PER,2013,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.3.OV.CULOCC1.1,SLV,2013,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.3.OV.CULOCC1.1,SVN,2014,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.3.OV.CULOCC1.1,SVN,2015,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.3.OV.CULOCC1.1,SVN,2016,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.3.OV.CULOCC1.1,URY,2013,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.4.OV.CULOCC1.1,BOL,2011,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.4.OV.CULOCC1.1,BRA,2013,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.4.OV.CULOCC1.1,CHL,2013,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.4.OV.CULOCC1.1,DOM,2013,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.4.OV.CULOCC1.1,ECU,2013,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.4.OV.CULOCC1.1,FIN,2015,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.4.OV.CULOCC1.1,GHA,2014,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.4.OV.CULOCC1.1,HND,2010,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.4.OV.CULOCC1.1,HRV,2015,Qualifier,Data quality,"Low reliability, use with caution"
+CE.RA.OCCDOMAIN1.4.OV.CULOCC1.1,KOR,2014,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.4.OV.CULOCC1.1,KOR,2015,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.4.OV.CULOCC1.1,MEX,2015,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.4.OV.CULOCC1.1,MLT,2015,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.4.OV.CULOCC1.1,PAK,2015,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.4.OV.CULOCC1.1,PAK,2015,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.4.OV.CULOCC1.1,PAN,2013,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.4.OV.CULOCC1.1,PER,2013,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.4.OV.CULOCC1.1,SVN,2014,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.4.OV.CULOCC1.1,SVN,2015,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.4.OV.CULOCC1.1,SVN,2016,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.4.OV.CULOCC1.1,URY,2013,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.5.OV.CULOCC1.1,BOL,2011,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.5.OV.CULOCC1.1,BRA,2013,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.5.OV.CULOCC1.1,CHL,2013,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.5.OV.CULOCC1.1,CYP,2015,Qualifier,Data quality,"Low reliability, use with caution"
+CE.RA.OCCDOMAIN1.5.OV.CULOCC1.1,FIN,2015,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.5.OV.CULOCC1.1,GHA,2014,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.5.OV.CULOCC1.1,HND,2010,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.5.OV.CULOCC1.1,KOR,2014,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.5.OV.CULOCC1.1,KOR,2015,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.5.OV.CULOCC1.1,MEX,2015,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.5.OV.CULOCC1.1,PAK,2015,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.5.OV.CULOCC1.1,PAK,2015,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.5.OV.CULOCC1.1,PAN,2013,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.5.OV.CULOCC1.1,PER,2013,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.5.OV.CULOCC1.1,SVN,2014,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.5.OV.CULOCC1.1,SVN,2015,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.5.OV.CULOCC1.1,SVN,2016,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.6.OV.CULOCC1.1,BOL,2011,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.6.OV.CULOCC1.1,BRA,2013,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.6.OV.CULOCC1.1,CHL,2013,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.6.OV.CULOCC1.1,DOM,2013,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.6.OV.CULOCC1.1,ECU,2013,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.6.OV.CULOCC1.1,FIN,2015,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.6.OV.CULOCC1.1,GHA,2014,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.6.OV.CULOCC1.1,HND,2010,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.6.OV.CULOCC1.1,HRV,2015,Qualifier,Data quality,"Low reliability, use with caution"
+CE.RA.OCCDOMAIN1.6.OV.CULOCC1.1,KOR,2014,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.6.OV.CULOCC1.1,KOR,2015,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.6.OV.CULOCC1.1,MEX,2015,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.6.OV.CULOCC1.1,MLT,2015,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.6.OV.CULOCC1.1,PAK,2015,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.6.OV.CULOCC1.1,PAK,2015,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.6.OV.CULOCC1.1,PAN,2013,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.6.OV.CULOCC1.1,PER,2013,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.6.OV.CULOCC1.1,SLV,2013,Over Coverage,FCS domains,Includes Intangible cultural heritage
+CE.RA.OCCDOMAIN1.6.OV.CULOCC1.1,SVN,2014,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.6.OV.CULOCC1.1,SVN,2015,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.6.OV.CULOCC1.1,SVN,2016,Over Coverage,Classification,Includes other occupation(s)
+CE.RA.OCCDOMAIN1.6.OV.CULOCC1.1,URY,2013,Over Coverage,FCS domains,Includes Intangible cultural heritage
